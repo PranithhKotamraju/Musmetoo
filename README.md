@@ -1,2 +1,2 @@
 # Musmetoo
-Lets Start
+A flutter app that connects musicans with event organizers.
